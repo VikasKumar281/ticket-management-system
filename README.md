@@ -3,9 +3,7 @@
 A simple, secure RESTful backend API for managing support tickets, built
 with Go.
 
-## Author
-
-**Vikas Kumar**
+## Author - **Vikas Kumar**
 
 -   GitHub: https://github.com/VikasKumar281
 -   Repository:
