@@ -1,0 +1,16 @@
+# Binaries
+/ticket-system
+/bin/
+/tmp/
+
+# Env files
+.env
+
+# Go build/test artifacts
+*.test
+*.out
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
